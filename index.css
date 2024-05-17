@@ -3,6 +3,9 @@
     padding: 0px;
 }
 
+body{
+    overflow-x: hidden;
+}
 .nav-tabs{
     align-items: center;
     justify-content: center;
